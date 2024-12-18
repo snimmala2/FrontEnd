@@ -26,7 +26,7 @@ This is the front-end for the Todo List application, built with **Next.js**, **T
 1. Clone the repository:
    ```bash
    git clone <https://github.com/snimmala2/FrontEnd>
-   cd todo-app
+   cd Frontend
    ```
 
 2. Install dependencies:
